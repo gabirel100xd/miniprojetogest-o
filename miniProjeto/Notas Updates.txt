@@ -1,0 +1,40 @@
+"Essa atualização coloca o código em V2"
+
+features:
+
+1)criação do ficheiro "funcoes.php"; 11/12/2019
+
+	1.1) encapsulamento de algumas funcoes:
+		1.1.1)show_nav_listararmazem();
+			title = cadastrar novo produto
+		     agora se chama title = inserir novo produto
+
+			href = cadastrarArmazem.php
+		  agora se chama href = inserirArmazem.php
+
+		1.1.2)show_nav_home();
+		1.1.3)show_register_inputs();
+		
+		JavaScript:
+		desloca_sec(id);
+		conf_apag(id);
+
+2)criação do ficheiro "catalogo.php"; 11/12/2019
+	2.1) criação das funções referentes ao catalago de produtos:
+		2.1.1)show_product_catalog();
+			para mostrar na página catalogo.php a table com informações dos produtos da BD
+
+		2.1.2)show_nav_catalog();
+			para mostrar na página catalogo.php navegador de opções
+
+3)criação da função show_listarSeccao() ;13/12/2019
+		3.1)mudança de nome de listarArmazém.php para listarSeccao.php
+		considerando um armazém como uma secção
+
+4)criação da função deslocar_produto() ;13/12/2019
+		4.1)mudança de nome de deslocArmazem.php para deslocProduto.php
+		considerando um armazém como uma secção
+
+5)criação da função apagar_produto() ;13/12/2019
+		5.1)mudança de nome de apagarArmazem.php para apagarProduto.php
+		considerando um armazém como uma secção

@@ -34,13 +34,13 @@ O projeto busca solucionar todas as requisições em todas as áreas pretendidas
 
 ## Documentação suporte
 
-[Aqui você encontra o plano de gestão do projeto MarketManagement.](Gestão-hipermercado-software-management-plan.pdf)
+[Aqui você encontra o plano de gestão do projeto MarketManagement.](Gestão-hipermercado%20software-management%20plan.pdf)
 
-[Aqui você encontra o plano de arquitetura de dados do Market Management.](Estrutura-de-dados-MarketManagement.pdf)
+[Aqui você encontra o plano de arquitetura de dados do Market Management.](Estrutura%20de%20dados%20MarketManagement.pdf)
 
 ## Calendarização do projeto
 
-[Aqui você encontra a calendarização do projeto representada em um diagrama de Gantt.](Diagrama-de-gantt.png)
+[Aqui você encontra a calendarização do projeto representada em um diagrama de Gantt.](Diagrama%20de%20gantt.png)
 
 O projeto tem 6 metas como principais marcos a se atingir.
 

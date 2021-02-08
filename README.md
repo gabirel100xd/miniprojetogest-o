@@ -72,19 +72,26 @@ O projeto necessita de algumas preparações para funcionar em um computador loc
 
 ## Ferramentas Utilizadas
   Foram utilizadas nesse projeto, conhecimentos em :
+
   . PHP
+  
   . HTML
+  
   . CSS
+  
   . JavaScript
+  
   . SQL
+  
   . XAMPP
   
 ## Controle de versões
 
 ## Autores
+
 Gabriel Faria de Souza Lima.
 
-##Licenças
+## Licenças
 Esse projeto é licensiado sobre a licença Apache 2 - Entre aqui [LICENSE](LICENSE) para mais detalhes.
   
   

@@ -34,7 +34,7 @@ O projeto busca solucionar todas as requisições em todas as áreas pretendidas
 
 ## Documentação suporte
 
-[Aqui você encontra o plano de gestão do projeto MarketManagement.](Gestão%20hipermercado%20software-management%20plan.pdf)
+[Aqui você encontra o plano de gestão do projeto MarketManagement.](Gestão%20hipermercado%20software%20management%20plan.pdf)
 
 [Aqui você encontra o plano de arquitetura de dados do Market Management.](Estrutura%20de%20dados%20MarketManagement.pdf)
 

@@ -10,7 +10,7 @@ Repositorio dedicado a analisé do projeto desenvolvido no 2º ano letivo de Eng
 
 1. [Breve Descrição](#breve-descricao)
 1. [Documentação suporte](#documentação-suporte)
-1. [Calendarização do Projeto](#project-roadmap)
+1. [Calendarização do Projeto](#calendarização-do-projeto)
 1. [Inicialização](#inicialização)
 1. [Ferramentas utilizadas](#ferramentas-utilizadas)
 1. [Controle de versões](#controle-de-versões)
